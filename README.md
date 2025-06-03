@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет! Меня зовут Венера, я Data Scientist 👋
 
 <!--
 **venera-key/venera-key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
