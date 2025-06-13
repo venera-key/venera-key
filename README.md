@@ -4,7 +4,7 @@
   <a href="https://t.me/Venera_997">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:ваша-почта@yandex.ru">
+  <a href="mailto:venera.kemetova@yandex.ru">
     <img src="https://img.shields.io/badge/Yandex_Почта-FF0000?logo=yandex&logoColor=white" alt="Email">
   </a>
 </p>
