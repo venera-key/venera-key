@@ -37,3 +37,16 @@
 |[Продуктовый анализ стартапа в e-commerce](https://github.com/venera-key/product_analisys) | Оценка месячного retention в оформление заказа с помощью когортного анализа. Определение product/market fit у маркетплейса. Выбор основных метрик, для максимизации прибыли компании. Выбор основной гипотезы с помощью фреймворка ICE. Формулировка метрики, на которую гипотеза должна повлиять. Выводы о проделанной работе | pandas, seaborn, matplotlib, numpy |
 | [Дашборд по Анализу удовлетворенности покупателей](https://datalens.yandex/t9lanrp32y7ef) | Подключение к данным. Создание датасета (расчеты). Создание чартов. Верстка Дашборда. | DataLens |
 
+## 🔗 Контакты
+
+<p align="left">
+  <a href="mailto:venera.kemetova@yandex.ru">
+    <img src="https://img.shields.io/badge/Yandex_Почта-FF0000?logo=yandex&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/Venera_997">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://github.com/blackcater">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p> 
