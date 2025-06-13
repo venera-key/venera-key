@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
   </a>
   
-  <a href="venera.kemetova@yandex.ru">
+  <a href="mailto:venera.kemetova@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
