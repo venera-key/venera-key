@@ -4,6 +4,9 @@
   <a href="https://t.me/Venera_997">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
   </a>
+  <a href="mailto:venera.kemetova@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 Имею высшее экономическое образование (бакалавриат, магистратура) и большой опыт в улучшении клиентского сервиса в банковской сфере. Работала с операционными процессами и постепенно решила перейти в Data Science, так как все время занималась аналитикой:
